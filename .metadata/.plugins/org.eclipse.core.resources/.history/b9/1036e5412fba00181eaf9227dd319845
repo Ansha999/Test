@@ -1,0 +1,14 @@
+package com.java.walmart.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class OrderServiceImpl {
+
+	public String getAllOrders() {
+		return "xyz";
+	}
+	
+	
+	
+}

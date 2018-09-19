@@ -1,0 +1,10 @@
+package com.java.walmart;
+
+public class OrderManagementApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.java.walmart.service;
+
+import org.springframework.stereotype.Service;
+
+import com.java.walmart.repository.OrderRepository;
+
+@Service
+public class OrderServiceImpl implements OrderService{
+   private OrderRepository orderRepository;
+	public String getAllOrders() {
+		return "xyz";
+	}
+	
+	
+	
+}

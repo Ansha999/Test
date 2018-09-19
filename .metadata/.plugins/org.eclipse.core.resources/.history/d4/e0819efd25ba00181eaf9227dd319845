@@ -1,0 +1,12 @@
+package com.java.walmart.entity;
+
+import java.util.Date;
+
+public class Order {
+
+	private String OrderId;
+	private Date Orderdate;
+	private double OrderAmount;
+	private 
+	
+}
